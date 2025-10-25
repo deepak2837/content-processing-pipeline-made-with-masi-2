@@ -1,0 +1,2 @@
+{'status': 'processing', 'total_files': 1, 'progress': 'Found 1 video(s) to process'}
+{'current_file': '#lyricsvideo [Xf4edzVvJC0].webm', 'progress': 'Processing #lyricsvideo [Xf4edzVvJC0].webm (1/1)', 'processed_files': 0}

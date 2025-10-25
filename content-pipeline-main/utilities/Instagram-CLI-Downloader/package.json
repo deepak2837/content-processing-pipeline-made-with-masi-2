@@ -1,0 +1,41 @@
+{
+  "name": "instagram-cli-downloader",
+  "version": "0.0.1",
+  "description": "A powerful and fast Instagram CLI Downloader. Download Instagram posts, reels, videos, photos, stories, and highlights in bulk directly from your terminal.",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "instagram downloader",
+    "cli",
+    "instagram scraper",
+    "download instagram media",
+    "reels downloader",
+    "instagram bulk download",
+    "instagram video downloader",
+    "instagram photo downloader",
+    "instagram story downloader",
+    "instagram highlight downloader"
+  ],
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "author": {
+    "name": "sadiakant",
+    "email": "krushnakantsadiya@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadiakant/instagram-cli-downloader.git"
+  },
+  "homepage": "https://github.com/sadiakant/instagram-cli-downloader#readme",
+  "bugs": {
+    "url": "https://github.com/sadiakant/instagram-cli-downloader/issues"
+  },
+  "dependencies": {
+    "axios": "^1.12.2",
+    "cheerio": "^1.1.2",
+    "jszip": "^3.10.1",
+    "puppeteer": "^24.43.1"
+  }
+}

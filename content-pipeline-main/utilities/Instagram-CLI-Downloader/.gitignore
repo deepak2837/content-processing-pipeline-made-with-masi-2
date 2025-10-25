@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+package-lock.json
+
+# Cookie files (IMPORTANT: Never commit your cookies!)
+.env/*
+cookie.json
+cookies.json
+*.cookie.json
+
+# Downloaded files and outputs
+Downloads/*
+*.zip
+*.log

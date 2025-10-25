@@ -1,0 +1,5 @@
+fastapi
+yt_dlp
+edge_tts    
+requests
+uvicorn
